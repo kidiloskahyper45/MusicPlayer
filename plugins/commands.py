@@ -70,7 +70,7 @@ async def start(client, message):
         InlineKeyboardButton('🤖 Other Bots', url='https://t.me/rosebakthan'),
     ],
     [
-        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/rosebakthan'),
+        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/kerela_songstore'),
         InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayr'),
     ],
     [
@@ -87,11 +87,11 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/rosebakthan'),
-            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/rosebakthan'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/kerela_songstore'),
+            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/kerela_songstore'),
         ],
         [
-            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/rosebakthan'),
+            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/kerela_songstore'),
             InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
         ]
     ]
